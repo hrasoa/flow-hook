@@ -1,0 +1,19 @@
+{
+  "name": "flow-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "flow"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-error-overlay": "^5.1.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.86.0"
+  }
+}
